@@ -4,7 +4,7 @@ namespace LuBan\Top;
 
 use LuBan\Top\Interfaces\Request;
 use LuBan\Top\Libs\ApplicationVar;
-use LuBan\Top\Request\HttpdnsGetRequest;
+use LuBan\Top\Requests\HttpdnsGetRequest;
 
 class ClusterClient extends Client
 {

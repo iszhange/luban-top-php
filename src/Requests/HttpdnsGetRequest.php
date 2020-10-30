@@ -5,7 +5,7 @@
  * @author auto create
  * @since 1.0, 2018.07.25
  */
-namespace LuBan\Top\Request;
+namespace LuBan\Top\Requests;
 
 use LuBan\Top\Interfaces\Request;
 
