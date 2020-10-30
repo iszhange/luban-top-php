@@ -9,7 +9,7 @@ use LuBan\Top\Requests\TbkItemInfoGetRequest;
 final class TbkItemInfoGetRequestTest extends TestCase
 {
 
-    public function testSuccess()
+    public function testRequest()
     {
         list($appkey, $secret) = include __DIR__ . '/configs.php';
 
