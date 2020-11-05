@@ -17,5 +17,8 @@ $result = $c->execute($req);
 var_dump($result);
 ```
 
+#### 贡献代码
+如果你想要参与代码开发请`fork`本项目，然后发起`pull request`。在通过代码检查和tests之后会将请求合并到主分支
+
 #### 参考文档
 - [淘宝开放平台](https://open.taobao.com)

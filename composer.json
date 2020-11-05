@@ -16,7 +16,9 @@
     "type": "library",
     "license": ["MIT"],
     "support": {
-        "email": "kenphp@yeah.net"
+        "email": "kenphp@yeah.net",
+        "issues": "https://github.com/iszhange/luban-top-php/issues",
+        "wiki": "https://github.com/iszhange/luban-top-php/wiki"
     },
     "require": {
         "php": ">=7.2",
