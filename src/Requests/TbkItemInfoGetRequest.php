@@ -2,8 +2,8 @@
 /**
  * TOP API: taobao.tbk.item.info.get request
  * 
- * @author auto create
- * @since 1.0, 2020.05.28
+ * @author zhange
+ * @since 2020.10.28
  */
 
 namespace LuBan\Top\Requests;
