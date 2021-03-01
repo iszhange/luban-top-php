@@ -11,7 +11,7 @@ namespace LuBan\Top\Requests;
 use LuBan\Top\Interfaces\Request;
 use LuBan\Top\Libs\RequestParamCheckUtil;
 
-class TbkItemInfoGetRequest implements Request
+class TaobaoTbkItemInfoGetRequest implements Request
 {
 	/** 
 	 * ip地址，影响邮费获取，如果不传或者传入不准确，邮费无法精准提供
