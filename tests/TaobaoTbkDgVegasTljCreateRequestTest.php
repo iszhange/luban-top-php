@@ -22,7 +22,7 @@ final class TaobaoTbkDgVegasTljCreateRequestTest extends TestCase
         $req->setTotalNum(1);
         $req->setName('测试淘礼金');
         $req->setUserTotalWinNumLimit(1);
-        $req->setSecuritySwitch(true);
+        $req->setSecuritySwitch('true');
         $req->setPerFace(1);
         $req->setSendStartTime('2021-03-01 00:00:00');
         $result = $c->execute($req);
