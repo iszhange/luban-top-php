@@ -15,17 +15,17 @@ class TaobaoTbkItemInfoGetRequest implements Request
 {
 	/** 
 	 * ip地址，影响邮费获取，如果不传或者传入不准确，邮费无法精准提供
-	 **/
+	 */
 	private $ip;
 	
 	/** 
 	 * 商品ID串，用,分割，最大40个
-	 **/
+	 */
 	private $numIids;
 	
 	/** 
 	 * 链接形式：1：PC，2：无线，默认：１
-	 **/
+	 */
 	private $platform;
 	
 	private $apiParas = [];
